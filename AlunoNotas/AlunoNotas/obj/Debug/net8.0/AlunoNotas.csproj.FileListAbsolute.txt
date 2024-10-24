@@ -1,0 +1,14 @@
+C:\Users\T-GAMER\OneDrive\Área de Trabalho\C#\AlunoNotas\AlunoNotas\bin\Debug\net8.0\AlunoNotas.exe
+C:\Users\T-GAMER\OneDrive\Área de Trabalho\C#\AlunoNotas\AlunoNotas\bin\Debug\net8.0\AlunoNotas.deps.json
+C:\Users\T-GAMER\OneDrive\Área de Trabalho\C#\AlunoNotas\AlunoNotas\bin\Debug\net8.0\AlunoNotas.runtimeconfig.json
+C:\Users\T-GAMER\OneDrive\Área de Trabalho\C#\AlunoNotas\AlunoNotas\bin\Debug\net8.0\AlunoNotas.dll
+C:\Users\T-GAMER\OneDrive\Área de Trabalho\C#\AlunoNotas\AlunoNotas\bin\Debug\net8.0\AlunoNotas.pdb
+C:\Users\T-GAMER\OneDrive\Área de Trabalho\C#\AlunoNotas\AlunoNotas\obj\Debug\net8.0\AlunoNotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-GAMER\OneDrive\Área de Trabalho\C#\AlunoNotas\AlunoNotas\obj\Debug\net8.0\AlunoNotas.AssemblyInfoInputs.cache
+C:\Users\T-GAMER\OneDrive\Área de Trabalho\C#\AlunoNotas\AlunoNotas\obj\Debug\net8.0\AlunoNotas.AssemblyInfo.cs
+C:\Users\T-GAMER\OneDrive\Área de Trabalho\C#\AlunoNotas\AlunoNotas\obj\Debug\net8.0\AlunoNotas.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\OneDrive\Área de Trabalho\C#\AlunoNotas\AlunoNotas\obj\Debug\net8.0\AlunoNotas.dll
+C:\Users\T-GAMER\OneDrive\Área de Trabalho\C#\AlunoNotas\AlunoNotas\obj\Debug\net8.0\refint\AlunoNotas.dll
+C:\Users\T-GAMER\OneDrive\Área de Trabalho\C#\AlunoNotas\AlunoNotas\obj\Debug\net8.0\AlunoNotas.pdb
+C:\Users\T-GAMER\OneDrive\Área de Trabalho\C#\AlunoNotas\AlunoNotas\obj\Debug\net8.0\AlunoNotas.genruntimeconfig.cache
+C:\Users\T-GAMER\OneDrive\Área de Trabalho\C#\AlunoNotas\AlunoNotas\obj\Debug\net8.0\ref\AlunoNotas.dll
